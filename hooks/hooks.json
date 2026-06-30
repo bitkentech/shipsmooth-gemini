@@ -3,7 +3,7 @@
     "SessionStart" : [ {
       "hooks" : [ {
         "type" : "command",
-        "command" : "sh \"${extensionPath}/hooks/install-shipsmooth.sh\" shipsmooth 0.3.19"
+        "command" : "sh \"${extensionPath}/hooks/install-shipsmooth.sh\" shipsmooth 0.3.34"
       } ]
     } ]
   }
